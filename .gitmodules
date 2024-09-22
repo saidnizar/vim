@@ -1,0 +1,6 @@
+[submodule "pack/plugin/start/fzf"]
+	path = pack/plugin/start/fzf
+	url = https://github.com/junegunn/fzf.vim.git
+[submodule "pack/plugin/start/nerdtree"]
+	path = pack/plugin/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
